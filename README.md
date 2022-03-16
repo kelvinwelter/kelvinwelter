@@ -1,4 +1,8 @@
-### Hi there 👋
+### 👋 Hi there! I'm Kelvin Welter
+I have been working for over three years developing Javascript-based software (Node.js, React.js, and React Native) as a software engineer. Furthermore, I recently completed my bachelor's degree in computer science at the State University of Santa Catarina.
+
+### 📫 How to reach me
+You can find me on [LinkedIn](https://linkedin.com/in/kelvinwelter) or through my [website](https://kelvinwelter.com)
 
 <!--
 **kelvinwelter/kelvinwelter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
